@@ -1,0 +1,36 @@
+body {
+  background-color: #f2f4d1;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 20%;
+}
+
+h2{
+   color: #b2d3be;
+}
+h1{
+  color: #b2d3be;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+
+
+/******************************************************************/
+.broccoli_001{
+  background-color: red;
+}
+
+.broccoli_002{
+  background-color: blue;
+}
+
+
+#broccoli_003{
+  background-color: green;
+}
