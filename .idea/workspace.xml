@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -146,13 +146,6 @@
       <workItem from="1561067186817" duration="4274000" />
       <workItem from="1561166089461" duration="2067000" />
       <workItem from="1561257596259" duration="4064000" />
-    </task>
-    <task id="LOCAL-00013" summary="Add &lt;style&gt;">
-      <created>1560539810095</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1560539810095</updated>
     </task>
     <task id="LOCAL-00014" summary="Add the external stylesheet">
       <created>1560541381424</created>
@@ -490,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562814131284</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="⭐⭐⭐⭐">
+      <created>1562814142435</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1562814142435</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -552,7 +552,6 @@
     <MESSAGE value="Add google fonts" />
     <MESSAGE value="Change h1 font" />
     <MESSAGE value="Add fontawesome" />
-    <MESSAGE value="⭐⭐⭐⭐" />
     <MESSAGE value="⭐⭐⭐⭐⭐" />
     <MESSAGE value="⭐⭐⭐⭐⭐&#10;⭐" />
     <MESSAGE value="⭐⭐⭐⭐⭐&#10;⭐⭐" />
@@ -561,7 +560,8 @@
     <MESSAGE value="⭐" />
     <MESSAGE value="⭐⭐" />
     <MESSAGE value="⭐⭐⭐" />
-    <option name="LAST_COMMIT_MESSAGE" value="⭐⭐⭐" />
+    <MESSAGE value="⭐⭐⭐⭐" />
+    <option name="LAST_COMMIT_MESSAGE" value="⭐⭐⭐⭐" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HTML - Personal Site/index.html">
@@ -591,7 +591,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
